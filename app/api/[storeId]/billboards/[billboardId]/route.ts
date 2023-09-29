@@ -97,7 +97,7 @@ export async function DELETE(req: Request, { params }: { params: { billboardId: 
       return new NextResponse('Unauthorized', { status: 405 });
     }
 
-    const billboard = await prismadb.billboard.delete({
+    const billboard = await prismadb.billboard.deleteMany({
       where: {
         id: params.billboardId,
       },
