@@ -1,4 +1,4 @@
-# Pricewise Ecommerce Nextjs.13 Web Scraping Price Tracker 
+# Ecommerce CMS Dashboard - Next.js 13, Tailwind, Prisma
 
 ![ecommerce_dashboard_screenshot](https://github.com/kt946/ecommerce-admin-dashboard-nextjs13-yt-cwa/assets/103476893/62aa5814-3c30-4bce-bce9-7c48f4e3e587, 'Ecommerce CMS dashboard homepage')
 
