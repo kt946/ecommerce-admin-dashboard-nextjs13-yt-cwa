@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pricewise Ecommerce Nextjs.13 Web Scraping Price Tracker 
+
+![ecommerce_dashboard_screenshot](https://github.com/kt946/ecommerce-admin-dashboard-nextjs13-yt-cwa/assets/103476893/62aa5814-3c30-4bce-bce9-7c48f4e3e587, 'Ecommerce CMS dashboard homepage')
+
+## Description
+
+This project is an ecommerce admin CMS dashboard where users can manage the contents and orders for an online store. The deployed version is connected to this ![github repository](https://github.com/kt946/ecommerce-store-nextjs13-yt-cwa). It was built using a YouTube tutorial by [Code With Antonio](https://www.youtube.com/watch?v=5miHyP6lExg).
 
 ## Getting Started
 
